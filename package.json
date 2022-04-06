@@ -1,0 +1,23 @@
+{
+  "name": "aula06sdmnoite0504",
+  "version": "1.0.0",
+  "description": "Este arquivo readme.md é um arquivo **markdown**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula06SDMNoite0504.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula06SDMNoite0504/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula06SDMNoite0504#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3"
+  }
+}
